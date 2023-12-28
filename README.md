@@ -1,6 +1,6 @@
 Hey there! I'm Abhishek        
 About me
-🔭 Currently i'm working as a Training & Placement Coordinator
+🔭 Currently Upgrading myself
 
 🌱 full Stack Developement and Problem Solving Enthusiast ☁️
 
