@@ -6,7 +6,6 @@ About me
 
 ❤️ I believe in 4C's - Collaboration, Code , Consistency and Coffee
 
-PNG
 
 Technologies I work with 🤔??
 JavaScript
